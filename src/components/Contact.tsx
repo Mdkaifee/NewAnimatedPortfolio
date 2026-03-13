@@ -46,7 +46,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/md__kaifee"
+              href="https://www.instagram.com/md___kaifee"
               target="_blank"
               rel="noopener noreferrer"
               data-cursor="disable"
