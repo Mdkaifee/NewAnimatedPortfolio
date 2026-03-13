@@ -83,7 +83,7 @@ const projects = [
     title: "FriendSphere Chatting App",
     category: "Realtime App",
     tools: "Python, Django, MongoDB, WebSocket",
-    image: "/images/placeholder.webp",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYi-VmZEUyro7LXfyjYpPpw8vh1UcKGUJjg&s",
     link: "https://friendsphere-chatapp.onrender.com/",
   },
   {
