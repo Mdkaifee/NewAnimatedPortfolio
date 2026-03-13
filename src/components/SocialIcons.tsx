@@ -4,7 +4,6 @@ import {
   FaLinkedinIn,
   FaXTwitter,
 } from "react-icons/fa6";
-import { MdEmail } from "react-icons/md";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -94,11 +93,6 @@ const SocialIcons = () => {
             rel="noopener noreferrer"
           >
             <FaXTwitter />
-          </a>
-        </span>
-        <span>
-          <a href="mailto:kaifeeeminence@gmail.com">
-            <MdEmail />
           </a>
         </span>
       </div>
